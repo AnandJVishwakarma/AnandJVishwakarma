@@ -35,3 +35,6 @@
 
 ---
 
+[youtube]: https://www.youtube.com/channel/UChSyy1cM2fT2eyaso9G2I6Q
+[instagram]: https://www.instagram.com/_anandvishwakarma_
+[linkedin]: https://www.linkedin.com/in/anand-vishwakarma-20389519a
